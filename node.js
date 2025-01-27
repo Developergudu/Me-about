@@ -2,7 +2,7 @@ const textContent = [
     "I am Unknown_Py💀...",
     "Born on 20th Nov 2006...",
     "Passionate about exploring worldwide...",
-    "I love physics and horror vibes.",
+    "btw hello reader.",
     "TG~@NYT_G."
 ];
 
